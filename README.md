@@ -55,6 +55,10 @@ First configure AWS to powershell using:
 
 - `aws sts get-caller-identity`    -> to verify AWS credentials
 
+## Screenshots
+
+- all the Screenshots and Code Snippetes are inlcuded in `Final_Individual_Project.pdf` File.
+
 ### Terraform  
 ```powershell
 terraform init
